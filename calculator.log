@@ -1,0 +1,51 @@
+[main] INFO  CalculatorTest.class  2020-03-04 20:32:33,248[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-04 20:32:33,252[MM/DD/YYYY hh:ss] - I am in Sub Test 
+[main] INFO  CalculatorTest.class  2020-03-04 20:32:33,261[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-04 20:32:33,261[MM/DD/YYYY hh:ss] - I am in Sum Test 
+[main] INFO  CalculatorTest.class  2020-03-04 20:32:33,263[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-04 20:32:33,263[MM/DD/YYYY hh:ss] - I am in mul Test 
+[main] INFO  CalculatorTest.class  2020-03-04 20:32:33,264[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-04 20:32:33,264[MM/DD/YYYY hh:ss] - I am in div Test 
+[main] WARN  CalculatorTest.class  2020-03-04 20:32:33,265[MM/DD/YYYY hh:ss] - Diviser should not be zero
+[main] INFO  CalculatorTest.class  2020-03-04 20:35:57,548[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-04 20:35:57,551[MM/DD/YYYY hh:ss] - I am in Sub Test 
+[main] INFO  CalculatorTest.class  2020-03-04 20:35:57,556[MM/DD/YYYY hh:ss] - I am in after
+[main] INFO  CalculatorTest.class  2020-03-04 20:35:57,560[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-04 20:35:57,560[MM/DD/YYYY hh:ss] - I am in Sum Test 
+[main] INFO  CalculatorTest.class  2020-03-04 20:35:57,560[MM/DD/YYYY hh:ss] - I am in after
+[main] INFO  CalculatorTest.class  2020-03-04 20:35:57,561[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-04 20:35:57,562[MM/DD/YYYY hh:ss] - I am in mul Test 
+[main] INFO  CalculatorTest.class  2020-03-04 20:35:57,562[MM/DD/YYYY hh:ss] - I am in after
+[main] INFO  CalculatorTest.class  2020-03-04 20:35:57,563[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-04 20:35:57,563[MM/DD/YYYY hh:ss] - I am in div Test 
+[main] WARN  CalculatorTest.class  2020-03-04 20:35:57,563[MM/DD/YYYY hh:ss] - Diviser should not be zero
+[main] INFO  CalculatorTest.class  2020-03-04 20:35:57,563[MM/DD/YYYY hh:ss] - I am in after
+[main] INFO  CalculatorTest.class  2020-03-04 20:35:57,564[MM/DD/YYYY hh:ss] - I am in After all
+[main] INFO  CalculatorTest.class  2020-03-06 10:44:09,215[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-06 10:44:09,217[MM/DD/YYYY hh:ss] - I am in Sub Test 
+[main] INFO  CalculatorTest.class  2020-03-06 10:44:09,222[MM/DD/YYYY hh:ss] - I am in after
+[main] INFO  CalculatorTest.class  2020-03-06 10:44:09,227[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-06 10:44:09,227[MM/DD/YYYY hh:ss] - I am in Sum Test 
+[main] INFO  CalculatorTest.class  2020-03-06 10:44:09,227[MM/DD/YYYY hh:ss] - I am in after
+[main] INFO  CalculatorTest.class  2020-03-06 10:44:09,228[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-06 10:44:09,228[MM/DD/YYYY hh:ss] - I am in mul Test 
+[main] INFO  CalculatorTest.class  2020-03-06 10:44:09,229[MM/DD/YYYY hh:ss] - I am in after
+[main] INFO  CalculatorTest.class  2020-03-06 10:44:09,230[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-06 10:44:09,230[MM/DD/YYYY hh:ss] - I am in div Test 
+[main] WARN  CalculatorTest.class  2020-03-06 10:44:09,230[MM/DD/YYYY hh:ss] - Diviser should not be zero
+[main] INFO  CalculatorTest.class  2020-03-06 10:44:09,230[MM/DD/YYYY hh:ss] - I am in after
+[main] INFO  CalculatorTest.class  2020-03-06 10:44:09,231[MM/DD/YYYY hh:ss] - I am in After all
+[main] INFO  CalculatorTest.class  2020-03-07 13:14:14,537[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-07 13:14:14,540[MM/DD/YYYY hh:ss] - I am in Sub Test 
+[main] INFO  CalculatorTest.class  2020-03-07 13:14:14,545[MM/DD/YYYY hh:ss] - I am in after
+[main] INFO  CalculatorTest.class  2020-03-07 13:14:14,548[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-07 13:14:14,548[MM/DD/YYYY hh:ss] - I am in Sum Test 
+[main] INFO  CalculatorTest.class  2020-03-07 13:14:14,548[MM/DD/YYYY hh:ss] - I am in after
+[main] INFO  CalculatorTest.class  2020-03-07 13:14:14,550[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-07 13:14:14,550[MM/DD/YYYY hh:ss] - I am in mul Test 
+[main] INFO  CalculatorTest.class  2020-03-07 13:14:14,550[MM/DD/YYYY hh:ss] - I am in after
+[main] INFO  CalculatorTest.class  2020-03-07 13:14:14,551[MM/DD/YYYY hh:ss] - I am in Before
+[main] INFO  CalculatorTest.class  2020-03-07 13:14:14,551[MM/DD/YYYY hh:ss] - I am in div Test 
+[main] WARN  CalculatorTest.class  2020-03-07 13:14:14,551[MM/DD/YYYY hh:ss] - Diviser should not be zero
+[main] INFO  CalculatorTest.class  2020-03-07 13:14:14,551[MM/DD/YYYY hh:ss] - I am in after
+[main] INFO  CalculatorTest.class  2020-03-07 13:14:14,553[MM/DD/YYYY hh:ss] - I am in After all
